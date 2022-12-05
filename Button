@@ -1,2 +1,4 @@
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/ZhupelL" data-color-scheme="no-preference: dark; light: dark; dark: dark_high_contrast;" data-size="large" data-show-count="true" aria-label="Follow @ZhupelL on GitHub">Follow @ZhupelL</a>
